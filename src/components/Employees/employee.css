@@ -1,0 +1,17 @@
+div {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-right: 10px;
+}
+
+.employee-card {
+    display: flex;
+    align-items: center;
+}
+
+.employee-card p {
+    margin: 0 10px 0 0;
+    user-select: none;
+}
